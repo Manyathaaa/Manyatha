@@ -1,3 +1,13 @@
+<h1 align="center">
+  Hi 👋, I'm Manyatha M
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Cyber+Security+Student;Software+Development+Intern;Full+Stack+Developer;Backend+%26+API+Builder" />
+</p>
+
+
+
 # 💫 About Me:
 I’m a Computer Science Engineering student specializing in Cyber Security and currently working as a Software Development Intern. I enjoy building scalable backend systems, APIs, and full-stack applications using modern JavaScript technologies.<br><br>I’ve developed production-ready software including a Telegram Bot that handles 10K+ daily requests and a full-stack web application with 99.9% uptime. I’m currently expanding my knowledge in system design, cloud deployment, and performance optimization for web services.
 
