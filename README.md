@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Cyber+Security+Student;Software+Development+Intern;Full+Stack+Developer;Backend+%26+API+Builder" />
 </p>
 
+<p align="center">
+  <img src="https://i.redd.it/z5useo7ajpfe1.gif" width="1100" />
+</p>
 
 
 # 💫 About Me:
@@ -24,5 +27,10 @@ I’m a Computer Science Engineering student specializing in Cyber Security and 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=manyathaaa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manyathaaa&theme=github-compact&hide_border=true" />
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
